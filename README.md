@@ -1,9 +1,7 @@
 # siclik
-
-Este proyecto es una aplicación web de catalogo de productos de un marketplace.
+Este proyecto es una aplicación web de catalogo de productos de un marketplace, este proyecto tiene finalidad de practica y aprendizaje
 
 ## Instalación
-
 1. Clona este repositorio: `git clone https://github.com/DanLedezma/click-test`.
 2. Navega al directorio del proyecto.
 3. Instala las dependencias: `npm install`.
@@ -25,5 +23,4 @@ Si deseas contribuir a este proyecto, por favor sigue estos pasos:
 5. Crea un Pull Request y describe tus cambios.
 
 ## Licencia
-
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
